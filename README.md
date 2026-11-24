@@ -64,6 +64,14 @@ sh curl/get-job.sh <job-id>
 
 Every filter and response field is listed in the [Jobs reference](https://jobven.com/docs/reference/jobs).
 
+## Further reading
+
+- [Public ATS job board endpoints](https://jobven.com/docs/guides/public-ats-job-board-endpoints):
+  reading Greenhouse, Lever, Ashby, Workday, SmartRecruiters and other job boards directly, the
+  traps, and when a feed costs less than polling.
+- [Job data API comparisons](https://jobven.com/compare): Jobven next to the Indeed and LinkedIn
+  routes, TheirStack, Coresignal, Lightcast, Fantastic.jobs and jobdata.
+
 ## License
 
 MIT
